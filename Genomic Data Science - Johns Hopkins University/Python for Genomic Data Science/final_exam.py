@@ -1,3 +1,7 @@
+# Genomic Data Science - Johns Hopkins University
+# Final Exam
+# by Andrew Yeh
+
 def find_orfs(seq_id, seq, frame=1):
     """ find_orfs returns a dictionary where the key = seq_id and corresponding values are 
     the start & stop positions, and length of all the orfs of a particular sequence """

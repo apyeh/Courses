@@ -1,7 +1,19 @@
-Below are the brief mini project descriptions by the course instructors.
-Important: Programs need to be opened and run on CodeSkulptor at http://www.codeskulptor.org
+## An Introduction to Interactive Programming in Python (Part 1)
+#### by Joe Warren, Scott Rixner, John Greiner, Stephen Wong
+#### Rice University
+***
 
-### Mini-project #1 description — Rock-paper-scissors-lizard-Spock
+More information about the course and a verified certificate of course completion with distinction can be found [here](https://www.coursera.org/account/accomplishments/records/83pAumRNgjY6XYtS)
+
+## Mini Projects
+
+Below are the brief mini project descriptions as described by the course instructors.
+
+**Important**: Programs need to be opened and run on CodeSkulptor at http://www.codeskulptor.org to work properly
+
+***
+
+### Mini-project #1 — "Rock-paper-scissors-lizard-Spock"
 
 Rock-paper-scissors is a hand game that is played by two people. The players count to three in unison and simultaneously "throw” one of three hand signals that correspond to rock, paper or scissors. The winner is determined by the rules:
 
@@ -14,12 +26,12 @@ Rock-paper-scissors is a surprisingly popular game that many people play serious
 Rock-paper-scissors-lizard-Spock (RPSLS) is a variant of Rock-paper-scissors that allows five choices. Each choice wins against two other choices, loses against two other choices and ties against itself. Much of RPSLS's popularity is that it has been featured in 3 episodes of the TV series "The Big Bang Theory". The Wikipedia entry for RPSLS gives the complete description of the details of the game.
 
 
-### Mini-project #2 description — “Guess the number” game
+### Mini-project #2 — “Guess the number” game
 
 One of the simplest two-player games is “Guess the number”. The first player thinks of a secret number in some known range while the second player attempts to guess the number. After each guess, the first player answers either “Higher”, “Lower” or “Correct!” depending on whether the secret number is higher, lower or equal to the guess. In this project, you will build a simple interactive program in Python where the computer will take the role of the first player while you play as the second player.
 
 
-### Mini-project #3 description - "Stopwatch: The Game"
+### Mini-project #3 - "Stopwatch: The Game"
 
 Our mini-project for this week will focus on combining text drawing in the canvas with timers to build a simple digital stopwatch that keeps track of the time in tenths of a second. The stopwatch should contain "Start", "Stop" and "Reset" buttons.
 
