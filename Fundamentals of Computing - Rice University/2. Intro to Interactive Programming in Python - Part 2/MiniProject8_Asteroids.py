@@ -1,4 +1,7 @@
-# program template for Spaceship
+# An Introduction to Interactive Programming in Python (Part 2)
+# program template for Asteroids
+# by Andrew Yeh
+
 import simplegui
 import math
 import random

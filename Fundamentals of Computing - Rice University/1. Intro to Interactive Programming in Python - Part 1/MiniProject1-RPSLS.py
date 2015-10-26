@@ -1,4 +1,6 @@
+# An Introduction to Interactive Programming in Python (Part 1)
 # Rock-paper-scissors-lizard-Spock
+# by Andrew Yeh
 
 
 # The key idea of this program is to equate the strings

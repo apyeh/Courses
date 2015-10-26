@@ -1,4 +1,6 @@
+# An Introduction to Interactive Programming in Python (Part 1)
 # "Stopwatch: The Game"
+# by Andrew Yeh
 
 # everytime stopwatch ticks (0.1s), global variable counter
 # should be updated by 1.

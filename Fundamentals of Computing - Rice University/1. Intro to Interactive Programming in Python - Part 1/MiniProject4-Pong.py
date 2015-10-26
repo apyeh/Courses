@@ -1,4 +1,6 @@
+# An Introduction to Interactive Programming in Python (Part 1)
 # Implementation of classic arcade game Pong
+# by Andrew Yeh
 
 import simplegui
 import random

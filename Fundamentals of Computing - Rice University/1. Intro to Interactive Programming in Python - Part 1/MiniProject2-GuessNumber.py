@@ -1,4 +1,7 @@
+# An Introduction to Interactive Programming in Python (Part 1)
 # "Guess the number" mini-project
+# by Andrew Yeh
+
 # input will come from buttons and an input field
 # all output for the game will be printed in the console
 

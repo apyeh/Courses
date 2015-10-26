@@ -1,4 +1,6 @@
+# An Introduction to Interactive Programming in Python (Part 2)
 # implementation of card game - Memory
+# by Andrew Yeh
 
 import simplegui
 import random
