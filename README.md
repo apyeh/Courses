@@ -1,3 +1,3 @@
 # Courses
 
-This repo contains representative projects / code that I've written for data science classes which I have taken. 
+This repo contains representative code / projects that I have written for data science courses which I have taken on Coursera. 
