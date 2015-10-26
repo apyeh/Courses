@@ -9,7 +9,7 @@ More information about the course and a verified certificate of course completio
 
 Below are the brief mini project descriptions as described by the course instructors.
 
-**Important**: Programs need to be opened and run on CodeSkulptor at http://www.codeskulptor.org to work properly.
+**Important**: Programs need to be opened and run in the CodeSkulptor environment at http://www.codeskulptor.org to work properly.
 
 ***
 
