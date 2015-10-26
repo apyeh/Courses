@@ -1,0 +1,23 @@
+## Python for Genomic Data Science
+#### by Mihaela Pertea, Ph.D. and Steven Salzberg, Ph.D.
+#### Johns Hopkins University
+***
+
+More information about the course and a verified certificate of course completion with distinction can be found [here](https://www.coursera.org/account/accomplishments/records/NchAMPWNmWyQbwAm)
+
+***
+
+## Course Description
+
+This class will provide an introduction to the Python programming language to people who are not computer scientists but who want to analyze genomic data. The course will teach participants basic concepts of bioinformatics programming, and introduce them to computational tools that deal with large amounts of data. The goals of the class is to enable students to write basic programs in Python, to adapt existing programs to their needs, and to interface Python programs with various bioinformatics packages through the use of Biopython.
+
+## Course Content
+
+1. Overview of Python 
+2. First Steps Toward Programming
+3. Data Structures
+4. Ifs and Loops
+5. Functions
+6. Modules and Packages
+7. Communicating with the Outside
+8. Biopython
