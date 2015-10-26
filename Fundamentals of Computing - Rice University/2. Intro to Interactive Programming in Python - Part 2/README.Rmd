@@ -1,4 +1,4 @@
-Below are brief descriptions by the instructors of the mini projects for  the course.
+Below are the brief mini project descriptions by the course instructors.
 Important: Programs need to be opened and run on CodeSkulptor at http://www.codeskulptor.org
 
 ### Mini-project #5 description - Memory
