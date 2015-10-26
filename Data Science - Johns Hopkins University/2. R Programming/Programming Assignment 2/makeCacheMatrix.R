@@ -1,4 +1,5 @@
 # R Programming, Programming Assignment 2, part 1
+# by Andrew Yeh
 
 ## makeCacheMatrix function creates a list containing a function to do the following:
 ## 1. set the value of the matrix

@@ -1,5 +1,6 @@
 # R Programming
 # Programming Assignment 3, Part 2
+# by Andrew Yeh
 
 ## The "best" function finds the best hospital in a state for a particular outcome.
 ## The arguments are the state and outcome.

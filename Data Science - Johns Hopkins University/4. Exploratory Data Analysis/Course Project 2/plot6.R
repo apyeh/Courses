@@ -1,3 +1,7 @@
+# Exploratory Data Analysis
+# Course Project 2
+# by Andrew Yeh
+
 ## Plot6.R constructs a plot (using ggplot2 system) to address the question below.
 
 ## Question 6:

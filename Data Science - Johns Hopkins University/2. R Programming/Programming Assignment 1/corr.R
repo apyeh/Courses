@@ -1,4 +1,6 @@
+# R Programming
 # Programming Assignment 1, Part 3
+# by Andrew Yeh
 
 # “Write a function that takes a directory of data files and a threshold for complete cases and calculates
 # the correlation between sulfate and nitrate for monitor locations where the number of completely observed

@@ -1,3 +1,7 @@
+# Exploratory Data Analysis
+# Course Project 1
+# by Andrew Yeh
+
 ## Plot4.R plots 4 plots together.
 ## Top left plot is of global active power vs. time
 ## Top right plot is of voltage usage vs. time

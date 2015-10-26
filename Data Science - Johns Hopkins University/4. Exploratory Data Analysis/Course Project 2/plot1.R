@@ -1,3 +1,7 @@
+# Exploratory Data Analysis
+# Course Project 2
+# by Andrew Yeh
+
 ## Plot1.R constructs a plot (using base plotting system) to answer the question below
 
 ## Question 1:

@@ -1,5 +1,6 @@
 # Getting and Cleaning Data
 # Course Project
+# by Andrew Yeh
 
 ## run_analysis.R
 

@@ -1,5 +1,6 @@
 # R Programming
 # Programming Assignment 3, Part 4
+# by Andrew Yeh
 
 ## The "rankhall" function returns hospitals by desired ranking
 ## in a particular outcome for all states

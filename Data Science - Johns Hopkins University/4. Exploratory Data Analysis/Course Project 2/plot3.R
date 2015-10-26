@@ -1,3 +1,7 @@
+# Exploratory Data Analysis
+# Course Project 2
+# by Andrew Yeh
+
 ## Plot3.R constructs a plot (using ggplot2 system) to answer the question below.
 
 ## Question 3:

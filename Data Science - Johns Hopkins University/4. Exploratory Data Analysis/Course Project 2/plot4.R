@@ -1,3 +1,7 @@
+# Exploratory Data Analysis
+# Course Project 2
+# by Andrew Yeh
+
 ## Plot4.R constructs a plot to address the question below
 
 ## Question 4:

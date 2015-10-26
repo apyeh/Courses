@@ -1,4 +1,8 @@
-## Plot3.R
+# Exploratory Data Analysis
+# Course Project 1
+# by Andrew Yeh
+
+# Plot3.R
 
 ## Read in data for only the days that are of interest, i.e., 2/1/2007 & 2/2/2007
 data <- read.table("household_power_consumption.txt", sep = ";", na.strings = "?", skip = 66637, nrows = 2880,

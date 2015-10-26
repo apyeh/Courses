@@ -1,4 +1,6 @@
+# R Programming
 # Programming Assignment 1, Part 2
+# by Andrew Yeh
 
 # Write a function that reads a directory full of files and reports the number of completely observed cases
 # in each data file. The function should return a data frame where the first column is the name of the file

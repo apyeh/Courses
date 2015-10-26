@@ -1,4 +1,6 @@
+# R Programming
 # Programming Assignment 1, Part 1
+# by Andrew Yeh
 
 # "Write a function named 'pollutantmean' that calculates the mean of a pollutant (sulfate or nitrate) across
 # a specified list of monitors. The function 'pollutantmean' takes three arguments: 'directory', 'pollutant',

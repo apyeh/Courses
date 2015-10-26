@@ -1,6 +1,6 @@
 # R Programming
 # Programming Assignment 3, Part 3
-
+# by Andrew Yeh
 
 ## The "rankhospital" function ranks hospitals by outcome in a state
 ## The arguments are the state, outcome, and desired ranking.

@@ -1,3 +1,7 @@
+# Exploratory Data Analysis
+# Course Project 1
+# by Andrew Yeh
+
 ## Plot2.R creates graph of "Global Active Power" usage over the course of two days (2/1/07 & 2/2/07)
 
 ## Read in data for only the days that are of interest, i.e., 2/1/2007 & 2/2/2007

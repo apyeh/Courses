@@ -1,4 +1,5 @@
 # R Programming, Programming Assignment 2, part 2
+# by Andrew Yeh
 
 ## Function to check if matrix inverse has already been calculated and is in cache.
 ## If not, function calculates the matrix inverse and places it into cache.
