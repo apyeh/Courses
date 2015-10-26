@@ -1,0 +1,26 @@
+## Getting and Cleaning Data
+
+#### by Jeff Leek, Ph.D.
+#### Johns Hopkins University
+***
+This is the 3rd course in Johns Hopkins University's Coursera Data Science Specialization.
+
+Below is the course description. More information about the course and a verified certificate of course completion with distinction can be found [here](https://www.coursera.org/account/accomplishments/records/6zmK7HRyMHxmdrKp).
+
+#### Course Description
+
+Before you can work with data you have to get some. This course will cover the basic ways that data can be obtained. The course will cover obtaining data from the web, from APIs, and from colleagues in various formats including raw text files, binary files, and databases. It will also cover the basics of data cleaning and how to make data tidy. Tidy data dramatically speed downstream data analysis tasks. The course will also cover the components of a complete data set including raw data, processing instructions, codebooks, and processed data. The course will cover the basics needed for collecting, cleaning, and sharing data.
+
+#### Course Content
+
+* Data collection
+     + Raw files (.csv,.xlsx)
+     + Databases (mySQL)
+     + APIs
+* Data formats
+     + Flat files (.csv,.txt)
+     + XML
+     + JSON
+* Making data tidy
+* Distributing data
+* Scripting for data cleaning
